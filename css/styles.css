@@ -1,33 +1,10 @@
+
 .intro {
-  font-weight: bolder;
-
+  font-style: italic;
+  color: red;
 }
 
-h2.intro {
-  font-size: 72px;
-  color: #4c3622;
-}
-
-p.intro {
-  font-size: 20px;
-  color: #a05108;
-  font-style: oblique;
-}
-
-img.intro {
-  border-radius: 5%;
-  border: #a05208 dashed 10px;
-}
-
-body {
-  text-align: center;
-  background-color: #ddc9b5;
-}
-
-.now {
-  text: #fc7e00;
-}
-
-.success {
-  font-size: 50px
+.paragraph {
+  font-family: sans-serif;
+  color: blue
 }
